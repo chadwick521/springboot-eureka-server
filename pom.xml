@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.zhaoyh</groupId>
-	<artifactId>eureka-server</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>springboot-eureka-server</artifactId>
+	<version>0.0.1</version>
 	<packaging>jar</packaging>
 
-	<name>eureka-server</name>
+	<name>springboot-eureka-server</name>
 	<description>Demo project for eureka-server</description>
 
 	<parent>
